@@ -1,7 +1,7 @@
 <h3 align="center">Yumma CSS — Angular</h3>
 
 <p align="center">
-  A Angular project with Yumma CSS.
+  An Angular project with Yumma CSS.
   <br>
   <a href="https://yummacss.com"><strong>Read the documentation ↝</strong></a>
 
